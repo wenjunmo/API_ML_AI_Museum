@@ -1,6 +1,9 @@
-# API_ML_AI_Museum
+<div align="center">
+  <h1>:whale2: 博物馆语音导览小助手 :whale2:</h1>
+  <p>基于微信平台开发的 智能线上博物馆语音导览 小程序</p>
+  <p>Seeking True from Fact 网新人，有态度，不认输，不头秃</p>
+</div>
 
-基于微信平台开发的 **智能线上博物馆语音导览** 小程序
 
 ## PRD 价值主张设计
 
