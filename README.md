@@ -86,6 +86,21 @@
 ### :star: 交互及界面设计
 (在 PRD 文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值 1*5%=5%)
 
+>1. 在推荐(推荐参观+推荐路线)使用了协同过滤的推荐算法，根据用户反馈的内容来实时生成可操作的游览路线
+>2. 在定制(定制语音)使用了文本识别转换为语音输出，并且使用不同的API开放接口来对导览小助手来进行语音优化
+
+博物馆：
+>产品架构![产品架构](https://images.gitee.com/uploads/images/2020/0110/041602_b6d38aa2_1831543.png "屏幕截图.png")
+>![核心功能交互说明](https://images.gitee.com/uploads/images/2020/0110/041641_b5aba9d4_1831543.png "屏幕截图.png")
+>![首页(简介+地图)](https://images.gitee.com/uploads/images/2020/0110/041842_fde31293_1831543.png "屏幕截图.png")
+>![推荐(推荐参观+推荐路线](https://images.gitee.com/uploads/images/2020/0110/092253_eef17eed_1831543.png "屏幕截图.png")
+>![推荐参观](https://images.gitee.com/uploads/images/2020/0110/092343_2ce9a202_1831543.png "屏幕截图.png")
+>![推荐路线](https://images.gitee.com/uploads/images/2020/0110/092429_88045417_1831543.png "屏幕截图.png")
+>![定制(定制语音)选择页](https://images.gitee.com/uploads/images/2020/0110/092505_4f07c234_1831543.png "屏幕截图.png")
+>![定制(定制语音)自定义语音](https://images.gitee.com/uploads/images/2020/0110/092739_8ea6faf9_1831543.png "屏幕截图.png")
+>![定制(定制语音)自定义上传语音](https://images.gitee.com/uploads/images/2020/0110/092834_a6ae50f1_1831543.png "屏幕截图.png")
+>![我的(基本信息+足迹+浏览](https://images.gitee.com/uploads/images/2020/0110/092916_e6bb845c_1831543.png "屏幕截图.png")
+
 ### :star: 信息设计
 (在 PRD 文件中是否有说明且原型是否有做到：信息设计的某个核心信息或设计使用了人工智能的加值 1%*5=5%)
 
